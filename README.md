@@ -37,11 +37,11 @@ source("./R/language.R")
 **pleomorfizm**
 
 
-[https://pathologyatlas.github.io/pleomorphism/HE.html](https://pathologyatlas.github.io/pleomorphism/HE.html)
+[https://images.patolojiatlasi.com/pleomorphism/HE.html](https://images.patolojiatlasi.com/pleomorphism/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/pleomorphism/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/pleomorphism/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -53,11 +53,11 @@ Mikroskopik görüntüleri inceleyin:
 **pleomorphism**
 
 
-[https://pathologyatlas.github.io/pleomorphism/HE.html](https://pathologyatlas.github.io/pleomorphism/HE.html)
+[https://images.patolojiatlasi.com/pleomorphism/HE.html](https://images.patolojiatlasi.com/pleomorphism/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/pleomorphism/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/pleomorphism/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
